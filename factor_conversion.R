@@ -123,3 +123,4 @@ sum(sapply(df, is.numeric))
 class(df$Gender)
 str(df$Gender)
 table(df$Gender)
+
